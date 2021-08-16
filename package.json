@@ -42,7 +42,7 @@
     "bignumber.js": "^9.0.1",
     "dotenv": "^10.0.0",
     "echarts": "^5.1.2",
-    "vuetify-dialog": "^2.0.16"
+    "vuetify-dialog": "^2.0.17"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.0.1",
